@@ -1,0 +1,591 @@
+﻿PARCELA;SUB-PARCELA ;ESTRATO;IND. No.;NOMBRE COMUN;NOMBRE CIENTIFICO;FAMILIA;ALTURA TOTAL (m);ALTURA COMERCIAL  (m);CAP (cm);DAP (m);A.B. TOTAL (m2);V. COMERCIAL (m3);V. TOTAL (m3);DIAM. COPA X (m);DIAM. COPA Y (m);COORDENADA E;COORDENADA N
+1r;1;Fustal;1;Reventillo;Mabea trianae Pax;Euphorbiaceae;10;3;40,5;0,13;0,0131;0,0255;0,0848;5;4;962839,5028;912903,277
+1r;1;Fustal;2;Cuajo;Guatteria leiocarpa R.E.Fr.;Annonaceae;12;7;45,5;0,14;0,0165;0,0750;0,1285;6;6;962845,6154;912911,7525
+1r;1;Fustal;3;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;13;8;37;0,12;0,0109;0,0566;0,0921;6;6;962830,9889;912908,4407
+1r;1;Fustal;4;NN 11;Ouratea castaneifolia (DC.) Engl.;Ochnaceae;13;10;37,5;0,12;0,0112;0,0727;0,0946;4;4;962845,6143;912908,988
+1r;2;Fustal;5;Palma Araco;Socratea exorrhiza (Mart.) H.Wendl.;Arecaceae;14;9;100;0,32;0,0796;0,4655;0,7242;3;4;962856,1623;912897,9258
+1r;2;Fustal;6;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;12;7;105;0,33;0,0877;0,3992;0,6843;5;4;962858,387;912906,0342
+1r;2;Fustal;7;Palma Araco;Socratea exorrhiza (Mart.) H.Wendl.;Arecaceae;18;12;67;0,21;0,0357;0,2786;0,4180;5;4;962858,9433;912908,2456
+1r;2;Fustal;8;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;12;7;80;0,25;0,0509;0,2317;0,3973;6;6;962866,9063;912914,6931
+1r;3;Fustal;9;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;17;13;92;0,29;0,0674;0,5691;0,7443;12;12;962866,7223;912917,642
+1r;3;Fustal;10;Palma cumare;Astrocaryum chambira Burret;Arecaceae;17;9;150;0,48;0,1790;1,0474;1,9785;9;9;962851,3533;912908,9857
+1r;3;Fustal;11;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;17;12;71;0,23;0,0401;0,3129;0,4433;12;16;962872,4531;912896,445
+1r;4;Fustal;12;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;10;6;123;0,39;0,1204;0,4695;0,7826;6;6;962870,4219;912909,8999
+1r;4;Fustal;13;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;13;8;131;0,42;0,1366;0,7101;1,1540;6;7;962871,4219;912904,8999
+1r;4;Fustal;14;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;19;13;54;0,17;0,0232;0,1961;0,2866;16;18;962879,6739;912898,4696
+1r;4;Fustal;15;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;12;6;57;0,18;0,0259;0,1008;0,2017;6;6;962879,8624;912907,1317
+1r;5;Fustal;16;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;4;126;0,40;0,1263;0,3285;0,6570;8;8;962881,346;912913,766
+1r;5;Fustal;17;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;7;36;0,11;0,0103;0,0469;0,0804;8;7;962880,9757;912913,7661
+1r;5;Fustal;18;Palma Araco;Socratea exorrhiza (Mart.) H.Wendl.;Arecaceae;14;10;57;0,18;0,0259;0,1681;0,2353;4;4;962882,4565;912913,2126
+1r;5;Fustal;19;Tortolo;Schefflera morototoni (Aubl.) Maguire et al.;Araliaceae;19;13;65;0,21;0,0336;0,2841;0,4152;20;18;962884,1225;912912,8434
+1r;5;Fustal;20;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;10;53;0,17;0,0224;0,1453;0,2325;12;12;962884,4923;912911,5531
+1r;5;Fustal;21;Marfil;Rudgea crassiloba (Benth.) B.L.Rob.;Rubiaceae;12;7;110;0,35;0,0963;0,4381;0,7511;7;8;962884,6775;912911,7374
+1r;5;Fustal;22;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;11;7;44;0,14;0,0154;0,0701;0,1102;4;4;962884,491;912908,2357
+1r;6;Fustal;23;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;15;9;49,5;0,16;0,0195;0,1141;0,1901;8;9;962904,6695;912906,7535
+1r;6;Fustal;24;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;4;52,5;0,17;0,0219;0,0570;0,1141;8;7;962903,5595;912908,7812
+1r;6;Fustal;25;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;12;9;39,5;0,13;0,0124;0,0726;0,0968;5;5;962903,5595;912908,7812
+1r;6;Fustal;26;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;16;12;66;0,21;0,0347;0,2704;0,3605;5;5;962904,6673;912901,2244
+1r;6;Fustal;27;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;11;7;38;0,12;0,0115;0,0523;0,0822;9;9;962905,0344;912893,115
+1r;6;Fustal;28;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;17;12;94;0,30;0,0703;0,5485;0,7770;8;8;962904,8498;912894,4052
+1r;6;Fustal;29;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;9;86;0,27;0,0589;0,3443;0,6121;9;9;962905,2208;912896,2481
+1r;7;Fustal;30;Laurel jigua;Ocotea sp.;Lauraceae;19;12;153;0,49;0,1863;1,4530;2,3006;13;14;962898,3767;912910,9948
+1r;7;Fustal;31;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;11;8;39;0,12;0,0121;0,0629;0,0865;5;8;962900,7802;912902,7003
+1r;7;Fustal;32;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;16;12;68;0,22;0,0368;0,2870;0,3827;5;5;962900,0402;912904,175
+1r;7;Fustal;33;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;18;16;57;0,18;0,0259;0,2689;0,3025;5;5;962898,7455;912907,1244
+1r;7;Fustal;34;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;10;55;0,18;0,0241;0,1565;0,2504;8;9;962900,5974;912908,7824
+1r;8;Fustal;35;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;15;11;95;0,30;0,0718;0,5135;0,7002;7;7;962909,4842;912910,4376
+1r;8;Fustal;36;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;14;9;64;0,20;0,0326;0,1907;0,2966;8;10;962912,0757;912909,5151
+1r;8;Fustal;37;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;9;4;73;0,23;0,0424;0,1103;0,2481;6;5;962920,7786;912914,3036
+1r;8;Fustal;38;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;20;16;95;0,30;0,0718;0,7469;0,9336;6;6;962895,7874;912917,2621
+1r;8;Fustal;39;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;13;8;59;0,19;0,0277;0,1440;0,2341;6;6;962919,6648;912906,5634
+1r;8;Fustal;40;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;16;9;84;0,27;0,0561;0,3285;0,5840;7;6;962919,8497;912906,0104
+1r;8;Fustal;41;NN 2;Miconia minutiflora (Bonpl.) DC.;Melastomataceae;18;12;72;0,23;0,0413;0,3218;0,4827;6;7;962919,1095;912906,7479
+1r;9;Fustal;42;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;18;13;82;0,26;0,0535;0,4521;0,6260;8;8;962919,2095;912906,8479
+1r;9;Fustal;43;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;19;14;62;0,20;0,0306;0,2784;0,3778;8;9;962920,7781;912913,1978
+1r;9;Fustal;44;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;13;8;99;0,32;0,0780;0,4056;0,6590;8;8;962924,8476;912904,3497
+1r;9;Fustal;45;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;16;10;77;0,25;0,0472;0,3067;0,4907;9;9;962924,107;912904,35
+1r;9;Fustal;46;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;8;2;44;0,14;0,0154;0,0200;0,0801;8;8;962925,9585;912904,9022
+1r;10;Fustal;47;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;13;6;59;0,19;0,0277;0,1080;0,2341;10;9;962931,6987;912907,8488
+1r;10;Fustal;48;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;12;2;93;0,30;0,0688;0,0895;0,5368;6;6;962931,6982;912906,743
+1r;10;Fustal;49;NN 10;Piper cf. demeraranum (Miq.) C.DC.;Piperaceae;15;11;69;0,22;0,0379;0,2709;0,3694;8;10;962928,5515;912908,0343
+1r;10;Fustal;50;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;12;8;38;0,12;0,0115;0,0598;0,0896;5;5;962953,1727;912905,4446
+1r;10;Fustal;51;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;10;2;83;0,26;0,0548;0,0713;0,3563;8;9;962952,7998;912898,8099
+2r;1;Fustal;1;Laurel;Ocotea cf. puberula (Rich.) Nees;Lauraceae;17;9;85,5;0,27;0,0582;0,3403;0,6428;8;6;962751,0399;912976,8478
+2r;1;Fustal;2;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;12;8;55,5;0,18;0,0245;0,1275;0,1912;8;8;962741,0415;912973,1656
+2r;1;Fustal;3;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;16;11;148;0,47;0,1743;1,2463;1,8128;7;8;962746,4086;912968,7403
+2r;1;Fustal;4;NN 4;Endlicheria cf. chalisea Chanderbali;Lauraceae;11;5;35;0,11;0,0097;0,0317;0,0697;6;6;962750,6721;912983,1142
+2r;1;Fustal;6;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;19;13;53;0,17;0,0224;0,1889;0,2761;5;5;962745,3058;912989,3825
+2r;1;Fustal;5;Palma cumare;Astrocaryum chambira Burret;Arecaceae;17;11;60;0,19;0,0286;0,2048;0,3166;5;6;962750,3055;912992,5137
+2r;1;Fustal;7;Palma cumare;Astrocaryum chambira Burret;Arecaceae;17;12;86;0,27;0,0589;0,4591;0,6504;5;5;962741,2328;912988,8312
+2r;1;Fustal;8;Macana;Euterpe precatoria Mart.;Arecaceae;16;10;34;0,11;0,0092;0,0598;0,0957;3;3;962737,8984;912983,4877
+2r;2;Fustal;10;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;15;10;47;0,15;0,0176;0,1143;0,1714;6;5;962747,1486;912967,6342
+2r;2;Fustal;9;Gualanday;Jacaranda obtusifolia Bonpl.;Bingnoniaceae;15;10;43;0,14;0,0147;0,0956;0,1435;6;7;962748,4442;912966,8965
+2r;2;Fustal;11;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;5;39;0,12;0,0121;0,0393;0,0708;6;6;962743,4461;912967,6356
+2r;2;Fustal;12;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;4;34;0,11;0,0092;0,0239;0,0538;6;8;962753,4387;912956,5736
+2r;2;Fustal;13;Laurel;Ocotea cf. puberula (Rich.) Nees;Lauraceae;13;8;48;0,15;0,0183;0,0953;0,1549;7;7;962757,3256;912954,5448
+2r;2;Fustal;14;Palma cumare;Astrocaryum chambira Burret;Arecaceae;15;9;59;0,19;0,0277;0,1621;0,2701;5;5;962748,0756;912971,1356
+2r;2;Fustal;15;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;4;44;0,14;0,0154;0,0401;0,0801;6;6;962744,0037;912973,5331
+2r;2;Fustal;16;Palma cumare;Astrocaryum chambira Burret;Arecaceae;16;11;63;0,20;0,0316;0,2258;0,3285;4;4;962744,924;912959,7101
+2r;2;Fustal;17;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;8;35,5;0,11;0,0100;0,0521;0,0782;5;6;962743,8144;912962,6593
+2r;3;Fustal;18;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;16;10;61;0,19;0,0296;0,1925;0,3080;7;4;962755,1085;912965,9724
+2r;3;Fustal;19;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;16;11;60;0,19;0,0286;0,2048;0,2979;7;6;962750,6646;912963,7625
+2r;3;Fustal;20;Palma cumare;Astrocaryum chambira Burret;Arecaceae;7;4;50;0,16;0,0199;0,0517;0,0905;4;4;962752,1424;912955,6526
+2r;3;Fustal;21;Macana;Euterpe precatoria Mart.;Arecaceae;18;13;38;0,12;0,0115;0,0971;0,1344;4;5;962753,2529;912954,7307
+2r;3;Fustal;22;NN 4;Endlicheria cf. chalisea Chanderbali;Lauraceae;11;7;42;0,13;0,0140;0,0639;0,1004;5;5;962751,2159;912953,2571
+2r;3;Fustal;23;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;11;8;33;0,11;0,0087;0,0451;0,0620;4;5;962761,2158;912960,9938
+2r;3;Fustal;24;Palma cumare;Astrocaryum chambira Burret;Arecaceae;14;8;63;0,20;0,0316;0,1642;0,2874;5;5;962761,4024;912964,6798
+2r;3;Fustal;25;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;13;8;106;0,34;0,0894;0,4649;0,7555;7;7;962743,9998;912963,3965
+2r;3;Fustal;26;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;14;10;43;0,14;0,0147;0,0956;0,1339;3;3;962742,1443;912952,5234
+2r;4;Fustal;27;Palma cumare;Astrocaryum chambira Burret;Arecaceae;11;7;58;0,18;0,0268;0,1218;0,1914;5;5;962757,8794;912950,3056
+2r;4;Fustal;28;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;10;3;33;0,11;0,0087;0,0169;0,0563;7;7;962757,1383;912949,0158
+2r;4;Fustal;29;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;17;11;53,5;0,17;0,0228;0,1629;0,2517;4;5;962759,7294;912947,1718
+2r;4;Fustal;30;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;12;7;161;0,51;0,2063;0,9385;1,6089;7;9;962750,101;912942,7523
+2r;4;Fustal;31;Macana;Euterpe precatoria Mart.;Arecaceae;8;6;41;0,13;0,0134;0,0522;0,0696;4;4;962755,1046;912956,0201
+2r;4;Fustal;32;Platanote;Himatanthus articulatus (Vahl) Woodson;Apocynaceae;14;8;81;0,26;0,0522;0,2715;0,4751;8;9;962750,2922;912958,2336
+2r;4;Fustal;33;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;7;3;42;0,13;0,0140;0,0274;0,0639;6;5;962739,5531;912953,9988
+2r;5;Fustal;34;Palma cumare;Astrocaryum chambira Burret;Arecaceae;11;7;58;0,18;0,0268;0,1218;0,1914;4;4;962751,3967;912942,1989
+2r;5;Fustal;35;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;10;7;42;0,13;0,0140;0,0639;0,0912;7;7;962755,8343;912928,1902
+2r;5;Fustal;36;Platanote;Himatanthus articulatus (Vahl) Woodson;Apocynaceae;19;12;97;0,31;0,0749;0,5840;0,9247;12;8;962756,7639;912938,3265
+2r;5;Fustal;37;Tuno;Miconia elata (Sw.) DC.;Melastomataceae;9;5;51;0,16;0,0207;0,0673;0,1211;7;7;962755,4642;912928,3747
+2r;5;Fustal;38;Palma cumare;Astrocaryum chambira Burret;Arecaceae;13;7;65;0,21;0,0336;0,1530;0,2841;5;5;962755,6498;912929,6647
+2r;6;Fustal;39;Platanote;Himatanthus articulatus (Vahl) Woodson;Apocynaceae;14;8;55;0,18;0,0241;0,1252;0,2191;4;4;962753,9826;912926,9008
+2r;6;Fustal;40;Palma cumare;Astrocaryum chambira Burret;Arecaceae;15;11;69;0,22;0,0379;0,2709;0,3694;5;4;962750,6525;912932,6155
+2r;6;Fustal;41;Palma cumare;Astrocaryum chambira Burret;Arecaceae;12;7;72;0,23;0,0413;0,1877;0,3218;4;4;962750,282;912932,0627
+2r;6;Fustal;42;Guacamayo;"Abarema jupunba (Willd.) Britton &
+Killip";Fabaceae;19;6;131;0,42;0,1366;0,5326;1,6866;15;14;962750,467;912931,694
+2r;6;Fustal;43;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;4;2;66;0,21;0,0347;0,0451;0,0901;4;4;962750,6519;912931,1411
+2r;7;Fustal;44;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;17;12;75,5;0,24;0,0454;0,3538;0,5012;7;8;962751,3923;912930,7722
+2r;7;Fustal;45;NN 2;Miconia minutiflora (Bonpl.) DC.;Melastomataceae;14;8;34,5;0,11;0,0095;0,0493;0,0862;5;6;962751,9471;912929,4818
+2r;7;Fustal;46;Tortolo;Schefflera morototoni (Aubl.) Maguire et al.;Araliaceae;14;8;60;0,19;0,0286;0,1490;0,2607;5;6;962749,9079;912922,1106
+2r;7;Fustal;47;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;5;41;0,13;0,0134;0,0435;0,0783;6;5;962748,6128;912924,3227
+2r;7;Fustal;48;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;13;9;45;0,14;0,0161;0,0943;0,1362;3;5;962754,5329;912913,9995
+2r;7;Fustal;49;Palma cumare;Astrocaryum chambira Burret;Arecaceae;14;8;57;0,18;0,0259;0,1344;0,2353;4;4;962760,6448;912920,632
+2r;7;Fustal;50;Reventillo;Mabea trianae Pax;Euphorbiaceae;10;7;43,5;0,14;0,0151;0,0685;0,0979;6;5;962760,83;912920,8162
+2r;7;Fustal;51;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;14;9;35;0,11;0,0097;0,0570;0,0887;4;4;962767,866;912923,7623
+2r;7;Fustal;52;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;17;12;80;0,25;0,0509;0,3973;0,5628;9;11;962772,1244;912924,8665
+2r;8;Fustal;53;Guamo peludo;Inga vera Willd.;Fabaceae;15;7;85;0,27;0,0575;0,2616;0,5606;8;9;962778,229;912913,0688
+2r;8;Fustal;54;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;18;12;56,5;0,18;0,0254;0,1981;0,2972;8;8;962761,0117;912912,1539
+2r;8;Fustal;55;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;14;8;41;0,13;0,0134;0,0696;0,1217;8;8;962767,4911;912911,7828
+2r;8;Fustal;56;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;6;47;0,15;0,0176;0,0686;0,1371;8;8;962768,0468;912912,7041
+2r;8;Fustal;57;Platanote;Himatanthus articulatus (Vahl) Woodson;Apocynaceae;14;10;61,5;0,20;0,0301;0,1956;0,2739;5;7;962771,7507;912916,0201
+2r;8;Fustal;58;Guamo loro;Swartzia cf. leptopetala Benth;Fabaceae;15;10;97;0,31;0,0749;0,4867;0,7300;9;9;962762,4982;912926,1603
+2r;8;Fustal;59;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;13;8;81;0,26;0,0522;0,2715;0,4412;9;11;962748,6107;912918,7936
+2r;8;Fustal;60;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;10;6;40;0,13;0,0127;0,0497;0,0828;9;9;962760,4519;912900,7275
+2r;8;Fustal;61;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;14;8;40;0,13;0,0127;0,0662;0,1159;7;7;962761,3761;912897,0411
+2r;9;Fustal;62;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;5;54;0,17;0,0232;0,0754;0,1357;6;7;962758,599;912896,4892
+2r;9;Fustal;63;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;10;6;58,5;0,19;0,0272;0,1062;0,1770;8;10;962763,9689;912899,6203
+2r;9;Fustal;64;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;5;55;0,18;0,0241;0,0782;0,1252;6,5;6;962775,4465;912898,6943
+2r;9;Fustal;65;Carano;Trattinnickia lancifolia (Cuatrec.) D.C.Daly;Burseraceae;9;7;34;0,11;0,0092;0,0419;0,0538;7;7;962769,8897;912890,9558
+2r;9;Fustal;66;Tortolo;Schefflera morototoni (Aubl.) Maguire et al.;Araliaceae;18;10;116;0,37;0,1071;0,6960;1,2528;12;12;962771,0036;912899,2489
+2r;9;Fustal;67;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;4;49,5;0,16;0,0195;0,0507;0,1014;10;11;962753,6038;912905,1534
+2r;9;Fustal;68;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;16;8;77;0,25;0,0472;0,2453;0,4907;12;10;962757,6767;912905,3361
+2r;10;Fustal;69;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;18;12;158;0,50;0,1987;1,5495;2,3243;12;12;962769,8924;912897,9593
+2r;10;Fustal;70;Trompillo;Guarea pubescens (Rich.) A.Juss.;Meliaceae;15;8;144;0,46;0,1650;0,8581;1,6089;12;12;962762,113;912887,8257
+2r;10;Fustal;71;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;8;3;37,5;0,12;0,0112;0,0218;0,0582;8;7;962760,449;912893,3554
+2r;10;Fustal;72;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;11;7;56;0,18;0,0250;0,1135;0,1784;10;11;962764,5224;912894,8282
+3r;1;Fustal;1;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;17;12;60;0,19;0,0286;0,2235;0,3166;6;8;962843,0484;912975,8905
+3r;1;Fustal;2;Brasil;Hymenaea oblongifolia Huber;Fabaceae;11;9;33;0,11;0,0087;0,0507;0,0620;2;2;962827,3149;912982,1629
+3r;1;Fustal;4;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;12;6;100;0,32;0,0796;0,3104;0,6207;8;8;962827,3171;912987,6919
+3r;1;Fustal;3;Palma cumare;Astrocaryum chambira Burret;Arecaceae;12;8;52;0,17;0,0215;0,1119;0,1678;5;5;962836,2017;912983,8181
+3r;1;Fustal;5;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;10;4;100;0,32;0,0796;0,2069;0,5173;8;8;962832,8679;912979,9491
+3r;1;Fustal;6;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;11;6;63;0,20;0,0316;0,1232;0,2258;8;8;962841,3834;912978,84
+3r;2;Fustal;7;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;10;4;124;0,39;0,1224;0,3181;0,7953;8;8;962852,1259;912991,7369
+3r;2;Fustal;8;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;15;12;60;0,19;0,0286;0,2235;0,2793;7;7;962852,6836;912997,8187
+3r;2;Fustal;9;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;14;7;60;0,19;0,0286;0,1303;0,2607;7;7;962841,2037;912992,847
+3r;2;Fustal;10;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;11;5;84;0,27;0,0561;0,1825;0,4015;6;6;962839,3527;912993,4006
+3r;2;Fustal;11;Carano;Trattinnickia lancifolia (Cuatrec.) D.C.Daly;Burseraceae;6;3;56;0,18;0,0250;0,0487;0,0973;2;1;962842,3149;912993,9524
+3r;2;Fustal;12;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;15;10;53;0,17;0,0224;0,1453;0,2179;6;7;962845,4603;912989,3436
+3r;3;Fustal;13;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;11;7;43;0,14;0,0147;0,0669;0,1052;8;7;962836,0211;912995,2449
+3r;3;Fustal;14;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;17;12;104;0,33;0,0861;0,6714;0,9511;10;12;962836,3927;912998,9308
+3r;3;Fustal;15;Carno;Trattinnickia lancifolia (Cuatrec.) D.C.Daly;Burseraceae;11;9;42;0,13;0,0140;0,0821;0,1004;5;5;962853,6036;912983,2585
+3r;3;Fustal;16;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;9;44;0,14;0,0154;0,0901;0,1202;6;6;962851,1972;912983,9966
+3r;3;Fustal;17;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;10;62;0,20;0,0306;0,1988;0,3181;8;8;962850,084;912977,7308
+3r;3;Fustal;18;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;16;10;82;0,26;0,0535;0,3478;0,5565;9;9;962845,8278;912982,1557
+3r;4;Fustal;19;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;3;38;0,12;0,0115;0,0224;0,0672;7;6;962846,568;912981,4182
+3r;4;Fustal;20;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;12;76;0,24;0,0460;0,3585;0,4780;8;8;962842,685;912993,5836
+3r;4;Fustal;21;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;20;12;129;0,41;0,1324;1,0329;1,7215;12;12;962858,2376;912998,1851
+3r;4;Fustal;22;Palma Araco;Socratea exorrhiza (Mart.) H.Wendl.;Arecaceae;16;14;38;0,12;0,0115;0,1046;0,1195;3;3;962852,6849;913001,1361
+3r;4;Fustal;23;NN 3;Miconia prasina (Sw.) DC.;Melastomataceae;10;5;47;0,15;0,0176;0,0571;0,1143;8;7;962859,1617;912994,1301
+3r;4;Fustal;24;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;14;8;57;0,18;0,0259;0,1344;0,2353;9;9;962857,4927;912986,943
+3r;4;Fustal;25;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;15;10;69;0,22;0,0379;0,2463;0,3694;8;8;962857,3074;912986,3902
+3r;4;Fustal;26;NN 3;Miconia prasina (Sw.) DC.;Melastomataceae;9;4;35;0,11;0,0097;0,0253;0,0570;8;7;962853,05;912987,8663
+3r;4;Fustal;27;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;12;8;45;0,14;0,0161;0,0838;0,1257;7;8;962850,6425;912985,6556
+3r;4;Fustal;28;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;11;8;41;0,13;0,0134;0,0696;0,0956;6;6;962868,7856;912986,9386
+3r;5;Fustal;29;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;19;16;59;0,19;0,0277;0,2881;0,3421;5;5;962863,2314;912986,2036
+3r;5;Fustal;30;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;6;2,8;40;0,13;0,0127;0,0232;0,0497;3;4;962863,787;912986,572
+3r;5;Fustal;31;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;14;10;56;0,18;0,0250;0,1622;0,2271;5;5;962864,7127;912986,9402
+3r;5;Fustal;32;Reventillo;Mabea trianae Pax;Euphorbiaceae;14;8;45;0,14;0,0161;0,0838;0,1466;6;7;962870,0801;912983,4364
+3r;5;Fustal;33;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;16;12;57;0,18;0,0259;0,2017;0,2689;8;8;962878,0406;912983,4333
+3r;5;Fustal;34;Palma Araco;Socratea exorrhiza (Mart.) H.Wendl.;Arecaceae;12;8;38;0,12;0,0115;0,0598;0,0896;4;4;962882,1135;912983,616
+3r;5;Fustal;35;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;13;7;84;0,27;0,0561;0,2555;0,4745;9;8;962883,2248;912984,9057
+3r;5;Fustal;36;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;14;10;54;0,17;0,0232;0,1508;0,2112;6;7;962883,0393;912983,9843
+3r;5;Fustal;37;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;15;10;69;0,22;0,0379;0,2463;0,3694;8;7;962887,1113;912981,7711
+3r;5;Fustal;38;Carne gallina;Dendropanax arboreus (L.) Decne. & Planch.;Araliaceae;13;10;64;0,20;0,0326;0,2119;0,2754;7;7;962886,7386;912975,505
+3r;6;Fustal;39;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;10;55;0,18;0,0241;0,1565;0,2504;6;6;962871,7461;912982,8829
+3r;6;Fustal;40;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;14;10;130;0,41;0,1345;0,8742;1,2238;7;7;962871,1907;912982,8831
+3r;6;Fustal;41;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;12;8;40;0,13;0,0127;0,0662;0,0993;6;5;962870,0803;912983,9893
+3r;6;Fustal;42;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;14;10;48;0,15;0,0183;0,1192;0,1668;7;8;962870,2654;912983,8049
+3r;7;Fustal;43;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;13;9;45;0,14;0,0161;0,0943;0,1362;6;7;962877,6691;912980,116
+3r;7;Fustal;44;Laurel;Ocotea cf. puberula (Rich.) Nees;Lauraceae;17;12;99;0,32;0,0780;0,6084;0,8618;8;8;962880,0808;912993,0162
+3r;7;Fustal;45;Merecure;Licania leucosepala Griseb.;Chrysobalanaceae;15;10;67;0,21;0,0357;0,2322;0,3483;6;7;962886,9302;912992,2764
+3r;7;Fustal;46;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;4,5;3;46;0,15;0,0168;0,0328;0,0493;1;1,4;962876,5554;912972,5601
+3r;7;Fustal;47;Palma cumare;Astrocaryum chambira Burret;Arecaceae;16;12;55;0,18;0,0241;0,1878;0,2504;6;6;962874,3338;912972,3767
+3r;7;Fustal;48;Palma cumare;Astrocaryum chambira Burret;Arecaceae;14;8;62;0,20;0,0306;0,1591;0,2784;7;6;962871,3715;912971,8249
+3r;8;Fustal;49;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;15;10;71;0,23;0,0401;0,2607;0,3911;7;7;962883,4096;912983,9841
+3r;8;Fustal;50;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;6;4;34;0,11;0,0092;0,0239;0,0359;4;7;962884,1503;912984,5368
+3r;8;Fustal;51;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;11;8;67;0,21;0,0357;0,1858;0,2554;6;5;962884,5209;912985,2738
+3r;8;Fustal;52;Palma cumare;Astrocaryum chambira Burret;Arecaceae;9;5;47;0,15;0,0176;0,0571;0,1028;6;6;962884,8912;912985,458
+3r;8;Fustal;53;Merecure;Licania leucosepala Griseb.;Chrysobalanaceae;22;16;160;0,51;0,2037;2,1187;2,9132;18;16;962899,6998;912981,2133
+3r;9;Fustal;54;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;15;12;84;0,27;0,0561;0,4380;0,5475;6;6;962909,1434;912986,3701
+3r;9;Fustal;55;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;7;5;36;0,11;0,0103;0,0335;0,0469;4;4;962902,1106;912991,7176
+3r;9;Fustal;56;NN 1;Matayba elegans Radlk.;Sapindaceae;11;7;46;0,15;0,0168;0,0766;0,1204;7;7;962897,4836;912994,8525
+3r;9;Fustal;57;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;14;12;44;0,14;0,0154;0,1202;0,1402;6;5;962902,6677;912996,1406
+3r;9;Fustal;58;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;15;9;49,5;0,16;0,0195;0,1141;0,1901;8;8;962903,038;912996,3248
+3r;9;Fustal;59;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;14;10;50;0,16;0,0199;0,1293;0,1810;6;5;962914,5092;912978,996
+3r;10;Fustal;60;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;10;8;34,5;0,11;0,0095;0,0493;0,0616;6;6;962920,4362;912986,3657
+3r;10;Fustal;62;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;17;12;70;0,22;0,0390;0,3041;0,4309;8;9;962917,8478;912995,0289
+3r;10;Fustal;63;Laurel;Ocotea cf. puberula (Rich.) Nees;Lauraceae;15;10;50;0,16;0,0199;0,1293;0,1940;6;7;962914,147;912999,6379
+3r;10;Fustal;64;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;20;16;67;0,21;0,0357;0,3715;0,4644;12;10;962906,7417;912999,2722
+3r;10;Fustal;65;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;15;13;50;0,16;0,0199;0,1681;0,1940;7;6;962907,8495;912991,5311
+3r;10;Fustal;61;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;16;12;65;0,21;0,0336;0,2622;0,3497;8;8;962908,2195;912990,978
+4r;1;Fustal;1;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;14;12;52;0,17;0,0215;0,1678;0,1958;4;4;962590,1703;913468,8121
+4r;1;Fustal;2;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;16;8;94;0,30;0,0703;0,3656;0,7313;8;8;962603,4989;913467,3324
+4r;1;Fustal;3;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;16;13;57,5;0,18;0,0263;0,2223;0,2736;7;7;962588,6877;913464,758
+4r;1;Fustal;4;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;9;4;59;0,19;0,0277;0,0720;0,1621;5;5;962587,2047;913459,5981
+4r;1;Fustal;5;Palma cumare;Astrocaryum chambira Burret;Arecaceae;19;16;61;0,19;0,0296;0,3080;0,3657;4;4;962586,0929;913457,0183
+4r;1;Fustal;6;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;13;8;53;0,17;0,0224;0,1162;0,1889;7;6;962587,0167;913452,2261
+4r;1;Fustal;7;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;10;7;36;0,11;0,0103;0,0469;0,0670;6;5;962589,7935;913452,0407
+4r;1;Fustal;8;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;13;9;41;0,13;0,0134;0,0783;0,1130;5;4;962588,3117;913450,014
+4r;1;Fustal;9;Palma cumare;Astrocaryum chambira Burret;Arecaceae;15;12;54;0,17;0,0232;0,1810;0,2262;4;4;962589,7963;913459,2285
+4r;1;Fustal;10;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;10;4;50;0,16;0,0199;0,0517;0,1293;8;9;962590,1675;913461,6243
+4r;2;Fustal;11;Brasil;Hymenaea oblongifolia Huber;Fabaceae;15;12;72;0,23;0,0413;0,3218;0,4022;8;12;962586,276;913451,8578
+4r;2;Fustal;12;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;7;5;75,5;0,24;0,0454;0,1474;0,2064;8;6;962599,9772;913456,46
+4r;1;Fustal;13;Palma cumare;Astrocaryum chambira Burret;Arecaceae;15;11;68,5;0,22;0,0373;0,2670;0,3641;6;6;962612,1957;913456,4552
+4r;2;Fustal;14;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;16;10;79,5;0,25;0,0503;0,3269;0,5231;8;10;962583,871;913456,0977
+4r;3;Fustal;15;Brasil;Hymenaea oblongifolia Huber;Fabaceae;19;14;135;0,43;0,1450;1,3198;1,7911;12;14;962585,9093;913461,073
+4r;3;Fustal;16;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;5;34;0,11;0,0092;0,0299;0,0718;6;8;962583,3155;913455,7293
+4r;3;Fustal;17;Reventillo;Mabea trianae Pax;Euphorbiaceae;12;8;43;0,14;0,0147;0,0765;0,1148;8;8;962605,7126;913447,2427
+4r;3;Fustal;18;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;16;10;107;0,34;0,0911;0,5922;0,9475;7;9;962600,7121;913441,8999
+4r;3;Fustal;19;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;15;11;65;0,21;0,0336;0,2404;0,3278;8;6;962595,8974;913438,5843
+4r;3;Fustal;20;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;18;12;76;0,24;0,0460;0,3585;0,5378;10;10;962593,3042;913434,8993
+4r;3;Fustal;21;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;11;4;44;0,14;0,0154;0,0401;0,1102;8;8;962590,1567;913433,979
+4r;3;Fustal;22;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;13;7;62;0,20;0,0306;0,1392;0,2585;8;8;962584,2299;913426,9779
+4r;4;Fustal;23;Macana;Euterpe precatoria Mart.;Arecaceae;14;12;35;0,11;0,0097;0,0760;0,0887;4;4;962594,9714;913437,6632
+4r;4;Fustal;24;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;11;6;63;0,20;0,0316;0,1232;0,2258;8;8;962607,932;913441,897
+4r;4;Fustal;25;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;15;10;68;0,22;0,0368;0,2392;0,3588;6;8;962594,2304;913436,189
+4r;5;Fustal;26;NN 10;Piper cf. demeraranum (Miq.) C.DC.;Piperaceae;13;7;75;0,24;0,0448;0,2037;0,3782;8;9;962618,2963;913434,5209
+4r;5;Fustal;27;Pata e paujil;Matayba cf. guianensis Aubl.;Sapindaceae;12;7;47;0,15;0,0176;0,0800;0,1371;9;8;962605,5275;913447,427
+4r;4;Fustal;28;Palma cumare;Astrocaryum chambira Burret;Arecaceae;14;9;58;0,18;0,0268;0,1566;0,2436;7;9;962602,7462;913436,1857
+4r;4;Fustal;29;Guamo loro;Swartzia cf. leptopetala Benth;Fabaceae;19;14;114;0,36;0,1034;0,9411;1,2772;15;17;962614,2235;913434,5225
+4r;4;Fustal;30;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;14;9;54;0,17;0,0232;0,1357;0,2112;6;7;962598,8601;913440,0576
+4r;5;Fustal;31;Madrono;Garcinia madruno (Kunth) Hammel;Clusiaceae;10;6;38;0,12;0,0115;0,0448;0,0747;6;7;962596,2665;913435,451
+4r;5;Fustal;32;Guamo peludo;Inga vera Willd.;Fabaceae;13;9;49;0,16;0,0191;0,1118;0,1615;5;6;962623,8424;913414,6142
+4r;5;Fustal;33;NN 2;Miconia minutiflora (Bonpl.) DC.;Melastomataceae;12;8;63;0,20;0,0316;0,1642;0,2464;6;5;962597,7429;913423,6551
+4r;5;Fustal;34;Carano aniz;Protium heptaphyllum (Aubl.) Marchand;Burseraceae;14;10;60,5;0,19;0,0291;0,1893;0,2651;5;4;962601,444;913419,9677
+4r;5;Fustal;35;Carano;Trattinnickia lancifolia (Cuatrec.) D.C.Daly;Burseraceae;15;10;58;0,18;0,0268;0,1740;0,2610;5;5;962587,929;913418,1299
+4r;5;Fustal;36;Uvero;Coccoloba caracasana Meisn.;Polygonaceae;13;7;54;0,17;0,0232;0,1056;0,1961;6;8;962605,1407;913405,0378
+4r;5;Fustal;37;Vara blanca;Casearia arborea (Rich.) Urb.;Salicaceae;11;8;34;0,11;0,0092;0,0478;0,0658;4;4;962614,77;913411,8532
+4r;5;Fustal;38;Cuero e sapo;Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr.;Moraceae;14;8;60;0,19;0,0286;0,1490;0,2607;8;7;962610,6966;913410,196
+4r;5;Fustal;39;Palma cumare;Astrocaryum chambira Burret;Arecaceae;16;12;54;0,17;0,0232;0,1810;0,2413;6;6;962600,8824;913404,1179
+4r;6;Fustal;40;Merecure;Licania leucosepala Griseb.;Chrysobalanaceae;14;8;48;0,15;0,0183;0,0953;0,1668;8;8;962612,5527;913422,7278
+4r;6;Fustal;41;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;14;12;63;0,20;0,0316;0,2464;0,2874;6;6;962618,1053;913419,5925
+4r;6;Fustal;42;Guamo peludo;Inga vera Willd.;Fabaceae;13;7;40;0,13;0,0127;0,0579;0,1076;5;4;962628,8404;913413,6907
+4r;7;Fustal;43;Nispero;Bellucia grossularioides (L.) Triana;Melastomataceae;16;8;100;0,32;0,0796;0,4138;0,8276;15;15;962624,2108;913410,0065
+4r;7;Fustal;44;Brasil;Hymenaea oblongifolia Huber;Fabaceae;12;8;39;0,12;0,0121;0,0629;0,0944;8;6;962622,5445;913409,4542
+4r;7;Fustal;45;NN 17;Ampelocera edentula Kuhlm.;Ulmaceae;10;5;49;0,16;0,0191;0,0621;0,1242;5;6;962634,5789;913412,3983
+4r;7;Fustal;46;Malagueto negro;Guatteria schomburgkiana Mart.;Annonaceae;16;12;52;0,17;0,0215;0,1678;0,2238;5;6;962613,4692;913399,1369
+4r;9;Fustal;47;Palma cumare;Astrocaryum chambira Burret;Arecaceae;14;10;80;0,25;0,0509;0,3310;0,4635;4;7;962622,8571;913404,1093
+4r;9;Fustal;48;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;12;8;71,5;0,23;0,0407;0,2115;0,3173;6;5;962622,8571;913404,1093
+4r;9;Fustal;49;Palma cumare;Astrocaryum chambira Burret;Arecaceae;16;12;60;0,19;0,0286;0,2235;0,2979;4;4;962622,8571;913404,1093
+4r;9;Fustal;50;Carne gallina;Dendropanax arboreus (L.) Decne. & Planch.;Araliaceae;11;7;33;0,11;0,0087;0,0394;0,0620;4;3;962622,8571;913404,1093
+4r;9;Fustal;51;Laurel oloroso;Aniba panurensis (Meisn.) Mez;Lauraceae;18;10;115;0,37;0,1052;0,6841;1,2313;13;14;962622,8571;913404,1093
+4r;9;Fustal;52;NN 10;Piper cf. demeraranum (Miq.) C.DC.;Piperaceae;17;12;120;0,38;0,1146;0,8938;1,2662;9;11;962622,8571;913404,1093
+4r;9;Fustal;53;NN 2;Miconia minutiflora (Bonpl.) DC.;Melastomataceae;14;8;71;0,23;0,0401;0,2086;0,3650;7;6;962622,8571;913404,1093
+4r;9;Fustal;54;Palma cumare;Astrocaryum chambira Burret;Arecaceae;7;3;54;0,17;0,0232;0,0452;0,1056;6;6;962622,8571;913404,1093
+4r;9;Fustal;55;Guayabo rebalcero;Myrcia paivae O.Berg;Myrtaceae;10;7;32;0,10;0,0081;0,0371;0,0530;3;3;962622,8571;913404,1093
+4r;9;Fustal;56;Palma cucurita;Attalea maripa (Aubl.) Mart.;Arecaceae;12;8;69;0,22;0,0379;0,1970;0,2955;6;5;962622,8571;913404,1093
+4r;10;Fustal;57;Gualanday;Jacaranda obtusifolia Bonpl.;Bingnoniaceae;10;6;33,5;0,11;0,0089;0,0348;0,0580;6;7;962622,8571;913404,1093
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
